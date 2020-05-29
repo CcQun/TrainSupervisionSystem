@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\CodingProject\\PyCharmProject\\TrainSupervisionSystem\\module2\\model\\module2.ckpt"
+all_model_checkpoint_paths: "D:\\CodingProject\\PyCharmProject\\TrainSupervisionSystem\\module2\\model\\module2.ckpt"
